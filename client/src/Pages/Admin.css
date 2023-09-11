@@ -1,0 +1,23 @@
+.admin.nav-tabs{
+    border: 1px solid #24242480;
+    border-radius: 100px;
+    padding: 2px 2px;
+    width: 75%;
+    align-self: center;
+    font-size: 18px;
+    color: #242424;
+    justify-content: center;
+}
+.admin .nav-link{
+    padding: 10px 50px;
+}
+.admin .nav-link.active{
+    background-color: blue !important;
+    /* border: 1px solid #24242480; */
+    border-radius: 100px;
+    color: #FFF !important;
+}
+.admin.nav-tabs .nav-link:hover{
+    border-radius: 100px !important;
+    /* background-color: green; */
+}
